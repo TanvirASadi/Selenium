@@ -1,0 +1,3 @@
+Selenium Notes
+
+3 main components of selenium
